@@ -13,7 +13,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(assests/bg-img.jpg);
+  background: url(../assests/bg-img.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -177,4 +177,5 @@ form {
   height: 250px;
   width: fit-content;
 }
+
 
